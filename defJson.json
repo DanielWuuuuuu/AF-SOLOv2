@@ -1,0 +1,1906 @@
+{
+	"11_3" : {
+		"status" : {
+			"index" : "11_3",
+			"name" : "1#空压机左 下云台左转 冷却水入口",
+			"description" : "1#空压机"
+		},
+		"content" : {
+            "Dials_1": {
+              "name": "水表",
+              "result": "null",
+              "description": "1#空压机左侧冷却水入口压力表",
+              "unit": "Mpa",
+              "type": 8,
+              "x": 626,
+              "y": 351,
+              "w": 64,
+              "h": 63
+            }
+		}
+	},
+	"12_3" : {
+		"status" : {
+			"index" : "12_3",
+			"name" : "1#空压机右1 上云台左转 冷却水入口",
+			"description" : "1#空压机"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "",
+    "description": "1#空压机右侧冷却水入口压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 758,
+    "y": 561,
+    "w": 89,
+    "h": 88
+  },
+  "Dials_2": {
+    "name": "水表",
+    "result": "",
+    "description": "1#空压机右侧冷却水入口温度表",
+    "unit": "°C",
+    "type": 8,
+    "x": 769,
+    "y": 356,
+    "w": 89,
+    "h": 89
+  }
+		}
+	},
+	"13_4" : {
+		"status" : {
+			"index" : "13_4",
+			"name" : "1#空压机右2 下云台 冷却水出口",
+			"description" : "1#空压机"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "1#空压机右侧冷却水出口温度表",
+    "unit": "°C",
+    "type": 8,
+    "x": 728,
+    "y": 372,
+    "w": 70,
+    "h": 72
+  }
+		}
+	},
+	"21_3" : {
+		"status" : {
+			"index" : "21_3",
+			"name" : "2#空压机左 上云台右转 冷却水入口",
+			"description" : "2#空压机"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "2#空压机左侧冷却水入口压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 569,
+    "y": 241,
+    "w": 61,
+    "h": 59
+  }
+		}
+	},
+	"22_4" : {
+		"status" : {
+			"index" : "22_4",
+			"name" : "2#空压机右1 下云台左转 冷却水入口",
+			"description" : "2#空压机"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "2#空压机右侧冷却水入口压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 524,
+    "y": 105,
+    "w": 46,
+    "h": 47
+  },
+  "Dials_2": {
+    "name": "水表",
+    "result": "null",
+    "description": "2#空压机右侧冷却水入口温度表",
+    "unit": "°C",
+    "type": 8,
+    "x": 685,
+    "y": 362,
+    "w": 72,
+    "h": 76
+  }
+		}
+	},
+	"23_4" : {
+		"status" : {
+			"index" : "23_4",
+			"name" : "2#空压机右2 下云台左转 冷却水出口",
+			"description" : "2#空压机"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "2#空压机右侧冷却水出口压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 716,
+    "y": 319,
+    "w": 82,
+    "h": 83
+  }
+		}
+	},
+	"31_3" : {
+		"status" : {
+			"index" : "31_3",
+			"name" : "3#空压机左 上云台摄像头右转 冷却水入水口",
+			"description" : "3#空压机"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "3#空压机左侧冷却水入水口压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 553,
+    "y": 314,
+    "w": 54,
+    "h": 55
+  }
+		}
+	},
+	"32_3" : {
+		"status" : {
+			"index" : "32_3",
+			"name" : "3#空压机右1 上云台摄像头左转 冷却水入口",
+			"description" : "3#空压机"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "3#空压机右侧冷却水入口压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 734,
+    "y": 163,
+    "w": 79,
+    "h": 77
+  },
+  "Dials_2": {
+    "name": "水表",
+    "result": "null",
+    "description": "3#空压机右侧冷却水入口温度表",
+    "unit": "°C",
+    "type": 8,
+    "x": 734,
+    "y": 163,
+    "w": 79,
+    "h": 77
+  }
+		}
+	},
+	"32_4" : {
+		"status" : {
+			"index" : "32_4",
+			"name" : "3#空压机右2 下云台 冷却水出口",
+			"description" : "3#空压机"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "3#空压机右侧冷却水出口压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 758,
+    "y": 561,
+    "w": 89,
+    "h": 88
+  }
+		}
+	},
+	"41_3" : {
+		"status" : {
+			"index" : "41_3",
+			"name" : "4#空压机 上云台 压缩空气",
+			"description" : "4#空压机"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "4#空压机空气压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 523,
+    "y": 236,
+    "w": 116,
+    "h": 112
+  }
+		}
+	},
+	"41_4" : {
+		"status" : {
+			"index" : "41_4",
+			"name" : "4#空压机 下云台 左表排水口 右表进水口",
+			"description" : "4#空压机"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "4#空压机冷却水出口压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 602,
+    "y": 175,
+    "w": 73,
+    "h": 71
+  },
+  "Dials_2": {
+    "name": "水表",
+    "result": "null",
+    "description": "4#空压机冷却水入口压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 649,
+    "y": 363,
+    "w": 51,
+    "h": 56
+  }
+		}
+	},
+	"51_3" : {
+		"status" : {
+			"index" : "51_3",
+			"name" : "3号压力表",
+			"description" : "水泵房"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "水泵房7#手轮压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 641,
+    "y": 357,
+    "w": 107,
+    "h": 111
+  }
+		}
+	},
+	"51_4" : {
+		"status" : {
+			"index" : "51_4",
+			"name" : "1号压力表",
+			"description" : "水泵房"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "水泵房1#循环水泵压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 641,
+    "y": 357,
+    "w": 107,
+    "h": 111
+  }
+		}
+	},
+	"52_3" : {
+		"status" : {
+			"index" : "52_3",
+			"name" : "3号压力表",
+			"description" : "水泵房"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "水泵房7#手轮压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 933,
+    "y": 145,
+    "w": 69,
+    "h": 69
+  }
+		}
+	},
+	"52_4" : {
+		"status" : {
+			"index" : "52_4",
+			"name" : "2号压力表",
+			"description" : "水泵房"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "水泵房2#循环水泵压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 603,
+    "y": 332,
+    "w": 92,
+    "h": 100
+  }
+		}
+	},
+	"53_4" : {
+		"status" : {
+			"index" : "53_4",
+			"name" : "7#手轮",
+			"description" : "水泵房"
+		},
+		"content" : {
+  "Vvalue_1": {
+    "name": "竖向阀门",
+    "result": "null",
+    "description": "水泵房7#手轮",
+    "unit": "",
+    "type": 15,
+    "x": 550,
+    "y": 114,
+    "w": 369,
+    "h": 366
+  }
+		}
+	},
+	"54_3" : {
+		"status" : {
+			"index" : "54_3",
+			"name" : "3号压力表",
+			"description" : "水泵房"
+		},
+		"content" : {
+  "Dials_1": {
+    "name": "水表",
+    "result": "null",
+    "description": "水泵房7#手轮压力表",
+    "unit": "Mpa",
+    "type": 8,
+    "x": 603,
+    "y": 332,
+    "w": 92,
+    "h": 100
+  }
+		}
+	},
+	"55_4" : {
+		"status" : {
+			"index" : "55_4",
+			"name" : "10#手轮",
+			"description" : "水泵房"
+		},
+		"content" : {
+  "Hvalue_1": {
+    "name": "横向阀门",
+    "result": "0",
+    "description": "水泵房10#手轮",
+    "unit": "",
+    "type": 16,
+    "x": 628,
+    "y": 422,
+    "w": 257,
+    "h": 47
+  }
+		}
+	},
+	"56_4" : {
+		"status" : {
+			"index" : "56_4",
+			"name" : "2号循环水泵手轮",
+			"description" : "水泵房"
+		},
+		"content" : {
+  "Vvalue_1": {
+    "name": "竖向阀门",
+    "result": "null",
+    "description": "水泵房11#手轮",
+    "unit": "",
+    "type": 15,
+    "x": 710,
+    "y": 5,
+    "w": 151,
+    "h": 388
+  }
+		}
+	},
+	"61_3" : {
+		"status" : {
+			"index" : "61_3",
+			"name" : "1#电控柜",
+			"description" : "1#电控柜"
+		},
+		"content" : {
+  "Button_1": {
+    "name": "按钮",
+    "result": "0",
+    "description": "上分闸",
+    "unit": "",
+    "type": 13,
+    "x": 377,
+    "y": 402,
+    "w": 33,
+    "h": 32
+  },
+  "Button_2": {
+    "name": "按钮",
+    "result": "0",
+    "description": "上合闸",
+    "unit": "",
+    "type": 13,
+    "x": 548,
+    "y": 542,
+    "w": 34,
+    "h": 32
+  },
+  "Button_3": {
+    "name": "按钮",
+    "result": "0",
+    "description": "下分闸",
+    "unit": "",
+    "type": 13,
+    "x": 662,
+    "y": 541,
+    "w": 34,
+    "h": 29
+  },
+  "Button_4": {
+    "name": "按钮",
+    "result": "0",
+    "description": "下合闸",
+    "unit": "",
+    "type": 13,
+    "x": 715,
+    "y": 397,
+    "w": 35,
+    "h": 34
+  },
+  "Label_1": {
+    "name": "标签卡",
+    "result": "[]",
+    "description": "标签卡",
+    "unit": "",
+    "type": 12,
+    "x": 114,
+    "y": 475,
+    "w": 99,
+    "h": 160
+  },
+  "Nameplate_1": {
+    "name": "铭牌",
+    "result": "['停电']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 109,
+    "y": 211,
+    "w": 175,
+    "h": 113
+  },
+  "Nameplate_2": {
+    "name": "铭牌",
+    "result": "[]",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 134,
+    "y": 49,
+    "w": 6,
+    "h": 8
+  },
+  "Nameplate_3": {
+    "name": "铭牌",
+    "result": "['6KVI段进线', '1#开关']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 254,
+    "y": 85,
+    "w": 178,
+    "h": 113
+  },
+  "Nameplate_4": {
+    "name": "铭牌",
+    "result": "['完好']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 884,
+    "y": 91,
+    "w": 124,
+    "h": 114
+  },
+  "Knob_1": {
+    "name": "旋钮",
+    "result": "2",
+    "description": "遥-近-远",
+    "unit": "",
+    "type": 14,
+    "x": 331,
+    "y": 533,
+    "w": 28,
+    "h": 46
+  },
+  "Knob_2": {
+    "name": "旋钮",
+    "result": "0",
+    "description": "切除-控制电源-投入",
+    "unit": "",
+    "type": 14,
+    "x": 435,
+    "y": 542,
+    "w": 39,
+    "h": 38
+  },
+  "Knob_3": {
+    "name": "旋钮",
+    "result": "1",
+    "description": "关-照明-开",
+    "unit": "",
+    "type": 14,
+    "x": 770,
+    "y": 532,
+    "w": 45,
+    "h": 38
+  },
+  "DigitalLED_1": {
+    "name": "数字仪表",
+    "result": "[]",
+    "description": "多功能仪表",
+    "unit": "",
+    "type": 10,
+    "x": 291,
+    "y": 215,
+    "w": 112,
+    "h": 109
+  }
+		}
+	},
+	"62_3" : {
+		"status" : {
+			"index" : "62_3",
+			"name" : "2#电控柜",
+			"description" : "2#电控柜"
+		},
+		"content" : {
+            "Button_1": {
+              "name": "按钮",
+              "result": "1",
+              "description": "分闸指示",
+              "unit": "",
+              "type": 13,
+              "x": 289,
+              "y": 411,
+              "w": 31,
+              "h": 33
+            },
+            "Button_2": {
+              "name": "按钮",
+              "result": "0",
+              "description": "合闸指示",
+              "unit": "",
+              "type": 13,
+              "x": 389,
+              "y": 410,
+              "w": 35,
+              "h": 34
+            },
+            "Button_3": {
+              "name": "按钮",
+              "result": "0",
+              "description": "熔断指示",
+              "unit": "",
+              "type": 13,
+              "x": 523,
+              "y": 547,
+              "w": 30,
+              "h": 29
+            },
+            "Button_4": {
+              "name": "按钮",
+              "result": "0",
+              "description": "接地刀合闸指示",
+              "unit": "",
+              "type": 13,
+              "x": 590,
+              "y": 546,
+              "w": 32,
+              "h": 30
+            },
+            "Button_5": {
+              "name": "按钮",
+              "result": "0",
+              "description": "合闸",
+              "unit": "",
+              "type": 13,
+              "x": 659,
+              "y": 542,
+              "w": 31,
+              "h": 29
+            },
+            "Button_6": {
+              "name": "按钮",
+              "result": "0",
+              "description": "分闸",
+              "unit": "",
+              "type": 13,
+              "x": 715,
+              "y": 404,
+              "w": 33,
+              "h": 33
+            },
+            "Button_7": {
+              "name": "按钮",
+              "result": "0",
+              "description": "复位",
+              "unit": "",
+              "type": 13,
+              "x": 819,
+              "y": 399,
+              "w": 35,
+              "h": 33
+            },
+            "Label_1": {
+              "name": "标签卡",
+              "result": "[]",
+              "description": "标签卡",
+              "unit": "",
+              "type": 12,
+              "x": 115,
+              "y": 452,
+              "w": 105,
+              "h": 174
+            },
+            "Nameplate_1": {
+              "name": "铭牌",
+              "result": "['电']",
+              "description": "铭牌",
+              "unit": "",
+              "type": 11,
+              "x": 223,
+              "y": 510,
+              "w": 88,
+              "h": 116
+            },
+            "Nameplate_2": {
+              "name": "铭牌",
+              "result": "['6KV1#空压机', '2#开关']",
+              "description": "铭牌",
+              "unit": "",
+              "type": 11,
+              "x": 267,
+              "y": 106,
+              "w": 175,
+              "h": 115
+            },
+            "Nameplate_3": {
+              "name": "铭牌",
+              "result": "['完好']",
+              "description": "铭牌",
+              "unit": "",
+              "type": 11,
+              "x": 890,
+              "y": 109,
+              "w": 106,
+              "h": 100
+            },
+            "Knob_1": {
+              "name": "旋钮",
+              "result": "2",
+              "description": "本段-另段",
+              "unit": "",
+              "type": 14,
+              "x": 337,
+              "y": 544,
+              "w": 34,
+              "h": 32
+            },
+            "Knob_2": {
+              "name": "旋钮",
+              "result": "0",
+              "description": "远-遥-近",
+              "unit": "",
+              "type": 14,
+              "x": 422,
+              "y": 546,
+              "w": 40,
+              "h": 36
+            },
+            "Knob_3": {
+              "name": "旋钮",
+              "result": "0",
+              "description": "切除-音响-投入",
+              "unit": "",
+              "type": 14,
+              "x": 722,
+              "y": 536,
+              "w": 44,
+              "h": 41
+            },
+            "Knob_4": {
+              "name": "旋钮",
+              "result": "0",
+              "description": "关-照明-开",
+              "unit": "",
+              "type": 14,
+              "x": 789,
+              "y": 535,
+              "w": 45,
+              "h": 40
+            },
+            "DigitalLED_1": {
+              "name": "数字仪表",
+              "result": "['5316', '6388']",
+              "description": "多功能电力仪表",
+              "unit": "",
+              "type": 10,
+              "x": 301,
+              "y": 224,
+              "w": 112,
+              "h": 114
+            }
+		}
+	},
+	"63_3" : {
+		"status" : {
+			"index" : "63_3",
+			"name" : "3#电控柜",
+			"description" : "3#电控柜"
+		},
+		"content" : {
+  "Button_1": {
+    "name": "按钮",
+    "result": "1",
+    "description": "分闸指示",
+    "unit": "",
+    "type": 13,
+    "x": 253,
+    "y": 410,
+    "w": 33,
+    "h": 33
+  },
+  "Button_2": {
+    "name": "按钮",
+    "result": "0",
+    "description": "合闸指示",
+    "unit": "",
+    "type": 13,
+    "x": 355,
+    "y": 408,
+    "w": 35,
+    "h": 36
+  },
+  "Button_3": {
+    "name": "按钮",
+    "result": "0",
+    "description": "熔断指示",
+    "unit": "",
+    "type": 13,
+    "x": 458,
+    "y": 548,
+    "w": 30,
+    "h": 28
+  },
+  "Button_4": {
+    "name": "按钮",
+    "result": "0",
+    "description": "接地刀合闸指示",
+    "unit": "",
+    "type": 13,
+    "x": 526,
+    "y": 545,
+    "w": 32,
+    "h": 31
+  },
+  "Button_5": {
+    "name": "按钮",
+    "result": "0",
+    "description": "合闸",
+    "unit": "",
+    "type": 13,
+    "x": 595,
+    "y": 542,
+    "w": 33,
+    "h": 29
+  },
+  "Button_6": {
+    "name": "按钮",
+    "result": "0",
+    "description": "分闸",
+    "unit": "",
+    "type": 13,
+    "x": 686,
+    "y": 402,
+    "w": 33,
+    "h": 31
+  },
+  "Button_7": {
+    "name": "按钮",
+    "result": "0",
+    "description": "复位",
+    "unit": "",
+    "type": 13,
+    "x": 789,
+    "y": 398,
+    "w": 34,
+    "h": 34
+  },
+  "Label_1": {
+    "name": "标签卡",
+    "result": "[]",
+    "description": "标签卡",
+    "unit": "",
+    "type": 12,
+    "x": 92,
+    "y": 446,
+    "w": 85,
+    "h": 178
+  },
+  "Nameplate_1": {
+    "name": "铭牌",
+    "result": "['电']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 175,
+    "y": 499,
+    "w": 112,
+    "h": 120
+  },
+  "Nameplate_2": {
+    "name": "铭牌",
+    "result": "['6KV2#空压机', '3#开关']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 235,
+    "y": 97,
+    "w": 178,
+    "h": 116
+  },
+  "Nameplate_3": {
+    "name": "铭牌",
+    "result": "['完好']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 854,
+    "y": 109,
+    "w": 106,
+    "h": 100
+  },
+  "Knob_1": {
+    "name": "旋钮",
+    "result": "0",
+    "description": "远-遥-近",
+    "unit": "",
+    "type": 14,
+    "x": 344,
+    "y": 547,
+    "w": 40,
+    "h": 35
+  },
+  "Knob_2": {
+    "name": "旋钮",
+    "result": "0",
+    "description": "关-照明-开",
+    "unit": "",
+    "type": 14,
+    "x": 662,
+    "y": 536,
+    "w": 44,
+    "h": 42
+  },
+  "Knob_3": {
+    "name": "旋钮",
+    "result": "0",
+    "description": "备用",
+    "unit": "",
+    "type": 14,
+    "x": 728,
+    "y": 536,
+    "w": 45,
+    "h": 39
+  },
+  "DigitalLED_1": {
+    "name": "数字仪表",
+    "result": "['6326', '']",
+    "description": "多功能电力仪表",
+    "unit": "",
+    "type": 10,
+    "x": 265,
+    "y": 218,
+    "w": 113,
+    "h": 118
+  }
+		}
+	},
+	"64_3" : {
+		"status" : {
+			"index" : "64_3",
+			"name" : "4#电控柜",
+			"description" : "4#电控柜"
+		},
+		"content" : {
+  "Button_1": {
+    "name": "按钮",
+    "result": "0",
+    "description": "上分闸",
+    "unit": "",
+    "type": 13,
+    "x": 259,
+    "y": 416,
+    "w": 29,
+    "h": 29
+  },
+  "Button_2": {
+    "name": "按钮",
+    "result": "1",
+    "description": "上合闸",
+    "unit": "",
+    "type": 13,
+    "x": 355,
+    "y": 416,
+    "w": 29,
+    "h": 28
+  },
+  "Button_3": {
+    "name": "按钮",
+    "result": "0",
+    "description": "UPS电源输入",
+    "unit": "",
+    "type": 13,
+    "x": 410,
+    "y": 547,
+    "w": 33,
+    "h": 29
+  },
+  "Button_4": {
+    "name": "按钮",
+    "result": "0",
+    "description": "UPS电源输出",
+    "unit": "",
+    "type": 13,
+    "x": 512,
+    "y": 543,
+    "w": 34,
+    "h": 33
+  },
+  "Button_5": {
+    "name": "按钮",
+    "result": "1",
+    "description": "下合闸",
+    "unit": "",
+    "type": 13,
+    "x": 668,
+    "y": 410,
+    "w": 31,
+    "h": 31
+  },
+  "Button_6": {
+    "name": "按钮",
+    "result": "1",
+    "description": "下分闸",
+    "unit": "",
+    "type": 13,
+    "x": 768,
+    "y": 405,
+    "w": 31,
+    "h": 33
+  },
+  "Label_1": {
+    "name": "标签卡",
+    "result": "[]",
+    "description": "标签卡",
+    "unit": "",
+    "type": 12,
+    "x": 96,
+    "y": 465,
+    "w": 102,
+    "h": 177
+  },
+  "Nameplate_1": {
+    "name": "铭牌",
+    "result": "['电']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 201,
+    "y": 494,
+    "w": 81,
+    "h": 120
+  },
+  "Nameplate_2": {
+    "name": "铭牌",
+    "result": "['6KV 联络柜', '4#开关']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 240,
+    "y": 121,
+    "w": 167,
+    "h": 112
+  },
+  "Nameplate_3": {
+    "name": "铭牌",
+    "result": "['完好']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 835,
+    "y": 133,
+    "w": 107,
+    "h": 97
+  },
+  "Knob_1": {
+    "name": "旋钮",
+    "result": "2",
+    "description": "遥-近-远",
+    "unit": "",
+    "type": 14,
+    "x": 314,
+    "y": 544,
+    "w": 27,
+    "h": 35
+  },
+  "Knob_2": {
+    "name": "旋钮",
+    "result": "0",
+    "description": "关-照明-开",
+    "unit": "",
+    "type": 14,
+    "x": 620,
+    "y": 542,
+    "w": 37,
+    "h": 39
+  },
+  "Knob_3": {
+    "name": "旋钮",
+    "result": "0",
+    "description": "备用",
+    "unit": "",
+    "type": 14,
+    "x": 719,
+    "y": 536,
+    "w": 43,
+    "h": 39
+  },
+  "DigitalLED_1": {
+    "name": "数字仪表",
+    "result": "['E37']",
+    "description": "多功能仪表",
+    "unit": "",
+    "type": 10,
+    "x": 268,
+    "y": 236,
+    "w": 110,
+    "h": 112
+  }
+		}
+	},
+	"65_3" : {
+		"status" : {
+			"index" : "65_3",
+			"name" : "5#电控柜",
+			"description" : "5#电控柜"
+		},
+		"content" : {
+  "Button_1": {
+    "name": "按钮",
+    "result": "0",
+    "description": "分闸指示",
+    "unit": "",
+    "type": 13,
+    "x": 245,
+    "y": 427,
+    "w": 29,
+    "h": 29
+  },
+  "Button_2": {
+    "name": "按钮",
+    "result": "1",
+    "description": "合闸指示",
+    "unit": "",
+    "type": 13,
+    "x": 337,
+    "y": 427,
+    "w": 29,
+    "h": 29
+  },
+  "Button_3": {
+    "name": "按钮",
+    "result": "0",
+    "description": "熔断指示",
+    "unit": "",
+    "type": 13,
+    "x": 459,
+    "y": 554,
+    "w": 32,
+    "h": 28
+  },
+  "Button_4": {
+    "name": "按钮",
+    "result": "0",
+    "description": "接地刀合闸指示",
+    "unit": "",
+    "type": 13,
+    "x": 524,
+    "y": 554,
+    "w": 28,
+    "h": 27
+  },
+  "Button_5": {
+    "name": "按钮",
+    "result": "0",
+    "description": "合闸",
+    "unit": "",
+    "type": 13,
+    "x": 585,
+    "y": 548,
+    "w": 32,
+    "h": 28
+  },
+  "Button_6": {
+    "name": "按钮",
+    "result": "0",
+    "description": "分闸",
+    "unit": "",
+    "type": 13,
+    "x": 638,
+    "y": 422,
+    "w": 33,
+    "h": 28
+  },
+  "Button_7": {
+    "name": "按钮",
+    "result": "0",
+    "description": "复位",
+    "unit": "",
+    "type": 13,
+    "x": 740,
+    "y": 416,
+    "w": 33,
+    "h": 34
+  },
+  "Label_1": {
+    "name": "标签卡",
+    "result": "[]",
+    "description": "标签卡",
+    "unit": "",
+    "type": 12,
+    "x": 97,
+    "y": 474,
+    "w": 94,
+    "h": 164
+  },
+  "Nameplate_1": {
+    "name": "铭牌",
+    "result": "['电']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 193,
+    "y": 502,
+    "w": 70,
+    "h": 123
+  },
+  "Nameplate_2": {
+    "name": "铭牌",
+    "result": "['6KV3#空压机', '5#开关']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 224,
+    "y": 139,
+    "w": 161,
+    "h": 112
+  },
+  "Nameplate_3": {
+    "name": "铭牌",
+    "result": "['完好']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 800,
+    "y": 139,
+    "w": 108,
+    "h": 94
+  },
+  "Knob_1": {
+    "name": "旋钮",
+    "result": "0",
+    "description": "本段-另段",
+    "unit": "",
+    "type": 14,
+    "x": 284,
+    "y": 550,
+    "w": 35,
+    "h": 32
+  },
+  "Knob_2": {
+    "name": "旋钮",
+    "result": "0",
+    "description": "远-遥-近",
+    "unit": "",
+    "type": 14,
+    "x": 368,
+    "y": 554,
+    "w": 36,
+    "h": 29
+  },
+  "Knob_3": {
+    "name": "旋钮",
+    "result": "2",
+    "description": "切除-音响-投入",
+    "unit": "",
+    "type": 14,
+    "x": 644,
+    "y": 548,
+    "w": 39,
+    "h": 35
+  },
+  "Knob_4": {
+    "name": "旋钮",
+    "result": "0",
+    "description": "关-照明-开",
+    "unit": "",
+    "type": 14,
+    "x": 710,
+    "y": 542,
+    "w": 41,
+    "h": 40
+  },
+  "DigitalLED_1": {
+    "name": "数字仪表",
+    "result": "[]",
+    "description": "多功能电力仪表",
+    "unit": "",
+    "type": 10,
+    "x": 253,
+    "y": 254,
+    "w": 107,
+    "h": 110
+  }
+		}
+	},
+	"66_3" : {
+		"status" : {
+			"index" : "66_3",
+			"name" : "6#电控柜",
+			"description" : "6#电控柜"
+		},
+		"content" : {
+  "Button_1": {
+    "name": "按钮",
+    "result": "0",
+    "description": "分闸指示",
+    "unit": "",
+    "type": 13,
+    "x": 248,
+    "y": 397,
+    "w": 29,
+    "h": 29
+  },
+  "Button_2": {
+    "name": "按钮",
+    "result": "1",
+    "description": "合闸指示",
+    "unit": "",
+    "type": 13,
+    "x": 342,
+    "y": 393,
+    "w": 29,
+    "h": 32
+  },
+  "Button_3": {
+    "name": "按钮",
+    "result": "0",
+    "description": "熔断指示",
+    "unit": "",
+    "type": 13,
+    "x": 435,
+    "y": 522,
+    "w": 27,
+    "h": 24
+  },
+  "Button_4": {
+    "name": "按钮",
+    "result": "0",
+    "description": "接地刀指示",
+    "unit": "",
+    "type": 13,
+    "x": 499,
+    "y": 518,
+    "w": 28,
+    "h": 28
+  },
+  "Button_5": {
+    "name": "按钮",
+    "result": "0",
+    "description": "合闸",
+    "unit": "",
+    "type": 13,
+    "x": 560,
+    "y": 518,
+    "w": 29,
+    "h": 28
+  },
+  "Button_6": {
+    "name": "按钮",
+    "result": "0",
+    "description": "分闸",
+    "unit": "",
+    "type": 13,
+    "x": 644,
+    "y": 386,
+    "w": 29,
+    "h": 33
+  },
+  "Button_7": {
+    "name": "按钮",
+    "result": "0",
+    "description": "复位",
+    "unit": "",
+    "type": 13,
+    "x": 745,
+    "y": 384,
+    "w": 30,
+    "h": 30
+  },
+  "Label_1": {
+    "name": "标签卡",
+    "result": "[]",
+    "description": "标签卡",
+    "unit": "",
+    "type": 12,
+    "x": 96,
+    "y": 446,
+    "w": 102,
+    "h": 171
+  },
+  "Nameplate_1": {
+    "name": "铭牌",
+    "result": "['电']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 205,
+    "y": 476,
+    "w": 70,
+    "h": 124
+  },
+  "Nameplate_2": {
+    "name": "铭牌",
+    "result": "['6KV4#空压机', '6#开关']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 229,
+    "y": 103,
+    "w": 161,
+    "h": 112
+  },
+  "Nameplate_3": {
+    "name": "铭牌",
+    "result": "['完好']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 824,
+    "y": 103,
+    "w": 102,
+    "h": 88
+  },
+  "Knob_1": {
+    "name": "旋钮",
+    "result": "0",
+    "description": "远-遥-近",
+    "unit": "",
+    "type": 14,
+    "x": 332,
+    "y": 520,
+    "w": 34,
+    "h": 32
+  },
+  "Knob_2": {
+    "name": "旋钮",
+    "result": "0",
+    "description": "关-照明-开",
+    "unit": "",
+    "type": 14,
+    "x": 621,
+    "y": 513,
+    "w": 39,
+    "h": 38
+  },
+  "Knob_3": {
+    "name": "旋钮",
+    "result": "0",
+    "description": "备用",
+    "unit": "",
+    "type": 14,
+    "x": 685,
+    "y": 512,
+    "w": 40,
+    "h": 39
+  },
+  "DigitalLED_1": {
+    "name": "数字仪表",
+    "result": "['53', '5335', '6328']",
+    "description": "多功能电力仪表",
+    "unit": "",
+    "type": 10,
+    "x": 257,
+    "y": 220,
+    "w": 108,
+    "h": 110
+  }
+		}
+	},
+	"67_3" : {
+		"status" : {
+			"index" : "67_3",
+			"name" : "7#电控柜",
+			"description" : "7#电控柜"
+		},
+		"content" : {
+  "Button_1": {
+    "name": "按钮",
+    "result": "0",
+    "description": "上分闸",
+    "unit": "",
+    "type": 13,
+    "x": 317,
+    "y": 413,
+    "w": 35,
+    "h": 35
+  },
+  "Button_2": {
+    "name": "按钮",
+    "result": "0",
+    "description": "上合闸",
+    "unit": "",
+    "type": 13,
+    "x": 490,
+    "y": 554,
+    "w": 33,
+    "h": 33
+  },
+  "Button_3": {
+    "name": "按钮",
+    "result": "0",
+    "description": "下合闸",
+    "unit": "",
+    "type": 13,
+    "x": 608,
+    "y": 550,
+    "w": 30,
+    "h": 32
+  },
+  "Button_4": {
+    "name": "按钮",
+    "result": "1",
+    "description": "下分闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Nameplate_1": {
+    "name": "铭牌",
+    "result": "['6KVI段进线', '7#开关']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 199,
+    "y": 91,
+    "w": 178,
+    "h": 124
+  },
+  "Nameplate_2": {
+    "name": "铭牌",
+    "result": "['送电']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 762,
+    "y": 345,
+    "w": 203,
+    "h": 141
+  },
+  "Nameplate_3": {
+    "name": "铭牌",
+    "result": "['完好']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 842,
+    "y": 92,
+    "w": 113,
+    "h": 105
+  },
+  "Knob_1": {
+    "name": "旋钮",
+    "result": "1",
+    "description": "遥-近-远",
+    "unit": "",
+    "type": 14,
+    "x": 276,
+    "y": 546,
+    "w": 29,
+    "h": 49
+  },
+  "Knob_2": {
+    "name": "旋钮",
+    "result": "2",
+    "description": "切除-控制电源-投入",
+    "unit": "",
+    "type": 14,
+    "x": 374,
+    "y": 554,
+    "w": 40,
+    "h": 39
+  },
+  "Knob_3": {
+    "name": "旋钮",
+    "result": "0",
+    "description": "关-照明-开",
+    "unit": "",
+    "type": 14,
+    "x": 716,
+    "y": 543,
+    "w": 43,
+    "h": 39
+  },
+  "DigitalLED_1": {
+    "name": "数字仪表",
+    "result": "['6330', '5.320']",
+    "description": "多功能仪表",
+    "unit": "",
+    "type": 10,
+    "x": 224,
+    "y": 218,
+    "w": 123,
+    "h": 124
+  }
+		}
+	},
+	"68_3" : {
+		"status" : {
+			"index" : "68_3",
+			"name" : "8#电控柜",
+			"description" : "8#电控柜"
+		},
+		"content" : {
+  "Button_1": {
+    "name": "按钮",
+    "result": "0",
+    "description": "应急电源脱扣",
+    "unit": "",
+    "type": 13,
+    "x": 317,
+    "y": 413,
+    "w": 35,
+    "h": 35
+  },
+  "Button_2": {
+    "name": "按钮",
+    "result": "0",
+    "description": "常用电源合",
+    "unit": "",
+    "type": 13,
+    "x": 490,
+    "y": 554,
+    "w": 33,
+    "h": 33
+  },
+  "Button_3": {
+    "name": "按钮",
+    "result": "0",
+    "description": "常用电源脱扣",
+    "unit": "",
+    "type": 13,
+    "x": 608,
+    "y": 550,
+    "w": 30,
+    "h": 32
+  },
+  "Button_4": {
+    "name": "按钮",
+    "result": "1",
+    "description": "应急电源合",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_5": {
+    "name": "按钮",
+    "result": "1",
+    "description": "电动机启动信号",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_6": {
+    "name": "按钮",
+    "result": "1",
+    "description": "备用",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_7": {
+    "name": "按钮",
+    "result": "1",
+    "description": "2号冷却塔合闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_8": {
+    "name": "按钮",
+    "result": "1",
+    "description": "2号水泵合闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_9": {
+    "name": "按钮",
+    "result": "1",
+    "description": "1号水泵合闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_10": {
+    "name": "按钮",
+    "result": "1",
+    "description": "1号冷却塔合闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_11": {
+    "name": "按钮",
+    "result": "1",
+    "description": "空压机KY1合闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_12": {
+    "name": "按钮",
+    "result": "1",
+    "description": "空压机KY2合闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_13": {
+    "name": "按钮",
+    "result": "1",
+    "description": "空压机KY3合闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_14": {
+    "name": "按钮",
+    "result": "1",
+    "description": "备用合闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_15": {
+    "name": "按钮",
+    "result": "1",
+    "description": "照明1合闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_16": {
+    "name": "按钮",
+    "result": "1",
+    "description": "照明2合闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_17": {
+    "name": "按钮",
+    "result": "1",
+    "description": "插座",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_18": {
+    "name": "按钮",
+    "result": "1",
+    "description": "2号冷却塔分闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_19": {
+    "name": "按钮",
+    "result": "1",
+    "description": "2号水泵分闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_20": {
+    "name": "按钮",
+    "result": "1",
+    "description": "1号水泵分闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Button_21": {
+    "name": "按钮",
+    "result": "1",
+    "description": "1号冷却塔分闸",
+    "unit": "",
+    "type": 13,
+    "x": 656,
+    "y": 404,
+    "w": 37,
+    "h": 34
+  },
+  "Nameplate_1": {
+    "name": "铭牌",
+    "result": "['完好']",
+    "description": "铭牌",
+    "unit": "",
+    "type": 11,
+    "x": 199,
+    "y": 91,
+    "w": 178,
+    "h": 124
+  },
+  "Knob_1": {
+    "name": "旋钮",
+    "result": "1",
+    "description": "电压测量",
+    "unit": "",
+    "type": 14,
+    "x": 276,
+    "y": 546,
+    "w": 29,
+    "h": 49
+  },
+  "Label_1": {
+    "name": "标签卡",
+    "result": "[]",
+    "description": "标签卡",
+    "unit": "",
+    "type": 12,
+    "x": 96,
+    "y": 446,
+    "w": 102,
+    "h": 171
+  },
+  "Meter_1": {
+    "name": "仪表",
+    "result": "",
+    "description": "电压指针表",
+    "unit": "V",
+    "type": 9,
+    "x": 224,
+    "y": 218,
+    "w": 123,
+    "h": 124
+  },
+  "Meter_2": {
+    "name": "仪表",
+    "result": "",
+    "description": "电流指针表1",
+    "unit": "A",
+    "type": 9,
+    "x": 224,
+    "y": 218,
+    "w": 123,
+    "h": 124
+  },
+  "Meter_3": {
+    "name": "仪表",
+    "result": "",
+    "description": "电流指针表2",
+    "unit": "A",
+    "type": 9,
+    "x": 224,
+    "y": 218,
+    "w": 123,
+    "h": 124
+  },
+  "Meter_4": {
+    "name": "仪表",
+    "result": "",
+    "description": "电流指针表3",
+    "unit": "A",
+    "type": 9,
+    "x": 224,
+    "y": 218,
+    "w": 123,
+    "h": 124
+  }
+		}
+	}
+}
