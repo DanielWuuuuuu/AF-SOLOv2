@@ -1,6 +1,6 @@
 # 智能巡检识别演示
 
-## 1. 测试数据[下载]()、PaddlePaddleOCR模型[下载]()
+## 1. AF-SOLOv2模型[下载](https://pan.baidu.com/s/1FBb2hpq3mNROEVjSVPy6ZA?pwd=7668)、测试数据[下载](https://pan.baidu.com/s/18m4opUIBw0mS7r4fzxIkhg?pwd=1ed1)、PaddlePaddleOCR模型[下载](https://pan.baidu.com/s/1aD9vXvwKyHKpySgZcHJv-A?pwd=001v)
 
 ## 2. 程序说明
 
